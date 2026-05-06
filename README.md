@@ -86,7 +86,7 @@ Dashboard Features
 ![Dashboard](outputs/dashboard.png)
 
  Upload Contacts
-![Upload](outputs/upload_contact.png)
+![Upload](outputs/upload_contacts.png)
 
  Logs
 ![Logs](outputs/view_logs.png)
