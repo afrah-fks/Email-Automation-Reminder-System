@@ -41,6 +41,7 @@ Contacts CSV → Template → Personalization → Email Sending → Logs → Rep
 
   Project Structure
 Email-Automation-Reminder-System/
+```
 │
 ├── data/
 │ ├── contacts.csv
@@ -68,7 +69,7 @@ Email-Automation-Reminder-System/
 └── main.py
 ├── app.py
 
-
+```
 
 ---
 Dashboard Features
