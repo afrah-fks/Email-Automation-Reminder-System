@@ -1,0 +1,8 @@
+Hello {name},
+
+This is a reminder for your scheduled activity.
+
+Please take necessary action.
+
+Regards,  
+Automation Team
